@@ -28,16 +28,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kccup&show_icons=true&theme=tokyonight" alt="kccup's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kccup&show_icons=true&theme=tokyonight" alt=>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kccup&theme=tokyonight" alt="kccup's streak" />
 </div>
 
-<details>
-  <summary>📈 More Stats</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kccup&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-</details>
+
 
 ## 🏆 GitHub Trophies
 
